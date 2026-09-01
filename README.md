@@ -1,2 +1,4 @@
 # Objects-scene
-"2023-02-01 12-35-17.mkv" is a video that shows how app works. 
+
+https://github.com/user-attachments/assets/9a3aefd3-85aa-4d93-aa0c-8fada61ffb19
+
