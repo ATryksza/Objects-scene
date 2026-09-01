@@ -1,6 +1,6 @@
 # 🧊 3D Objects Scene
 
-A C++ 3D graphics application for loading and rendering 3D objects with configurable camera, shading, fog, and lighting settings.
+A C# 3D graphics application for loading and rendering 3D objects with configurable camera, shading, fog, and lighting settings.
 
 The project includes OBJ model parsing, triangle rasterization, and basic 3D scene rendering.
 
@@ -24,7 +24,9 @@ https://github.com/user-attachments/assets/9a3aefd3-85aa-4d93-aa0c-8fada61ffb19
 
 ## 🛠️ Technologies
 
-- C++
+- C#
+- .NET
+- WinForms
 - 3D graphics
 - OBJ
 
